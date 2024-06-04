@@ -86,6 +86,12 @@ gdjs.Untitled_32scene2Code.GDclickbaseObjects3= [];
 gdjs.Untitled_32scene2Code.GDPotObjects1= [];
 gdjs.Untitled_32scene2Code.GDPotObjects2= [];
 gdjs.Untitled_32scene2Code.GDPotObjects3= [];
+gdjs.Untitled_32scene2Code.GDNewSpriteObjects1= [];
+gdjs.Untitled_32scene2Code.GDNewSpriteObjects2= [];
+gdjs.Untitled_32scene2Code.GDNewSpriteObjects3= [];
+gdjs.Untitled_32scene2Code.GDcoverObjects1= [];
+gdjs.Untitled_32scene2Code.GDcoverObjects2= [];
+gdjs.Untitled_32scene2Code.GDcoverObjects3= [];
 
 
 gdjs.Untitled_32scene2Code.eventsList0 = function(runtimeScene) {
@@ -298,6 +304,12 @@ gdjs.Untitled_32scene2Code.GDclickbaseObjects3.length = 0;
 gdjs.Untitled_32scene2Code.GDPotObjects1.length = 0;
 gdjs.Untitled_32scene2Code.GDPotObjects2.length = 0;
 gdjs.Untitled_32scene2Code.GDPotObjects3.length = 0;
+gdjs.Untitled_32scene2Code.GDNewSpriteObjects1.length = 0;
+gdjs.Untitled_32scene2Code.GDNewSpriteObjects2.length = 0;
+gdjs.Untitled_32scene2Code.GDNewSpriteObjects3.length = 0;
+gdjs.Untitled_32scene2Code.GDcoverObjects1.length = 0;
+gdjs.Untitled_32scene2Code.GDcoverObjects2.length = 0;
+gdjs.Untitled_32scene2Code.GDcoverObjects3.length = 0;
 
 gdjs.Untitled_32scene2Code.eventsList1(runtimeScene);
 

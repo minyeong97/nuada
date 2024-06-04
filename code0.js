@@ -69,6 +69,10 @@ gdjs.testSceneCode.GDclickbaseObjects1= [];
 gdjs.testSceneCode.GDclickbaseObjects2= [];
 gdjs.testSceneCode.GDPotObjects1= [];
 gdjs.testSceneCode.GDPotObjects2= [];
+gdjs.testSceneCode.GDNewSpriteObjects1= [];
+gdjs.testSceneCode.GDNewSpriteObjects2= [];
+gdjs.testSceneCode.GDcoverObjects1= [];
+gdjs.testSceneCode.GDcoverObjects2= [];
 
 
 gdjs.testSceneCode.mapOfGDgdjs_9546testSceneCode_9546GDBottleObjects1ObjectsGDgdjs_9546testSceneCode_9546GDGreenBottlePieceObjects1ObjectsGDgdjs_9546testSceneCode_9546GDHandCastingMagicObjects1Objects = Hashtable.newFrom({"Bottle": gdjs.testSceneCode.GDBottleObjects1, "GreenBottlePiece": gdjs.testSceneCode.GDGreenBottlePieceObjects1, "HandCastingMagic": gdjs.testSceneCode.GDHandCastingMagicObjects1});
@@ -262,6 +266,10 @@ gdjs.testSceneCode.GDclickbaseObjects1.length = 0;
 gdjs.testSceneCode.GDclickbaseObjects2.length = 0;
 gdjs.testSceneCode.GDPotObjects1.length = 0;
 gdjs.testSceneCode.GDPotObjects2.length = 0;
+gdjs.testSceneCode.GDNewSpriteObjects1.length = 0;
+gdjs.testSceneCode.GDNewSpriteObjects2.length = 0;
+gdjs.testSceneCode.GDcoverObjects1.length = 0;
+gdjs.testSceneCode.GDcoverObjects2.length = 0;
 
 gdjs.testSceneCode.eventsList1(runtimeScene);
 
